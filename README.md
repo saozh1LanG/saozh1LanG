@@ -3,8 +3,6 @@
 my e-mail address is saozhulang@163.com
 
 other connect way is QQ number：1175794440
-I made a good RAT named GODratv3.5 if you want to buy it 
-please e me thanks guys!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=saozh1LanG&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
